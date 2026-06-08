@@ -45,7 +45,7 @@ Predict the **traffic demand** (a normalized continuous value) for a given road 
 
 ---
 
-## 🔄 Pipeline Overview
+## Pipeline Overview
 
 ```
 Raw Data
