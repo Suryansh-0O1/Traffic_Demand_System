@@ -120,7 +120,7 @@ After the initial stack, test samples with the **lowest 20% prediction variance*
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 ```python
 def evaluate(label, y_true, y_pred):
